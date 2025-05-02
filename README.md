@@ -44,3 +44,5 @@ The methods covered are:
 - Thermal
   - DTS
 
+Each method will start with `Key Concepts` that by the end of going through each module you should be able to understand.  Each module has links to external resources as well.
+
