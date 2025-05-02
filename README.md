@@ -29,3 +29,18 @@ Geophysical information, material, and example codes for use with the Summer of 
 
 The goal of this book is to provide material for students to help guide them through understanding the basics of geophysical methods including the physics, instrumentation, field methods, processing, modeling and interpretation.
 
+## Methods
+
+The methods covered are:
+
+- Gravity
+- Magnetics
+- Electromagnetics
+  - Magnetotellurics
+  - Transient Electromagnetics (TEM)
+  - Ground-penetrating Radar (GPR)
+- Electrical
+  - ERT
+- Thermal
+  - DTS
+
