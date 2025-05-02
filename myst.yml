@@ -6,7 +6,7 @@ project:
   keywords: [magnetotellurics]
   authors: MT Team
   license: CC-BY-4.0
-  #thumbnail: ./images/SAGE_logo.png
+  thumbnail: ./images/SAGE_Logo.png
   
   github: https://github.com/SAGE-Geophysical-Field-Camp
   # To autogenerate a Table of Contents, run "myst init --write-toc"
@@ -52,5 +52,5 @@ project:
 site: 
   template: book-theme
   options:
-    logo: ./images/SAGE_logo.png
+    logo: ./images/SAGE_Logo.png
     logo-text: SAGE Geophysical Field Camp
