@@ -5,7 +5,8 @@ project:
   description: Documentation and working examples for open-source Python packages to work with magnetoteluric data.
   keywords: [magnetotellurics]
   authors: MT Team
-  license: CC BY 4.0
+  license: CC-BY-4.0
+  thumbnail: ./images/SAGE_logo.png
   
   github: https://github.com/SAGE-Geophysical-Field-Camp
   # To autogenerate a Table of Contents, run "myst init --write-toc"
@@ -48,8 +49,7 @@ project:
             - file: ./notebooks/simpeg/12_simpeg_1d_from_mtpy_inversion.ipynb
             - file: ./notebooks/simpeg/13_2d_from_mtpy_example.ipynb
     
-site:
+site: 
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    # logo: ./images/SAGE_logo.png
+    # logo-text: SAGE Geophysical Field Camp
