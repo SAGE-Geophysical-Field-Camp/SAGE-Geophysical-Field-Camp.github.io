@@ -51,5 +51,6 @@ project:
     
 site: 
   template: book-theme
-    # logo: ./images/SAGE_logo.png
-    # logo-text: SAGE Geophysical Field Camp
+  options:
+    logo: ./images/SAGE_logo.png
+    logo-text: SAGE Geophysical Field Camp
