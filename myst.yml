@@ -49,10 +49,16 @@ project:
               - file: ./notebooks/simpeg/12_simpeg_1d_from_mtpy_inversion.ipynb
               - file: ./notebooks/simpeg/13_2d_from_mtpy_example.ipynb
     - title: Seismology
-      children:
 # akram note 5/7/25 :create content in .ipynb style and format and link here. put the notebooks under the ./notebook/seis/xxx.ipynb
     #  - title: Seicmic methods fundamentals 
-      
+      children:
+      - file: ./notebooks/seimic/intro_to_seimic.ipynb
+#      - file: ./notebooks/seimic/physical_understanding.ipynb
+#      - file: ./notebooks/seimic/data_collection.ipynb    
+#      - file: ./notebooks/seimic/survey_design_example.ipynb
+#      - file: ./notebooks/seimic/timeseries_data.ipynb
+#      - title: Example Notebooks from Open Source Codes
+ #       children:
 site:
   template: book-theme
   options:
