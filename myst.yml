@@ -48,7 +48,10 @@ project:
               - file: ./notebooks/simpeg/9_3d_inversion_yellowstone_impedance.ipynb
               - file: ./notebooks/simpeg/12_simpeg_1d_from_mtpy_inversion.ipynb
               - file: ./notebooks/simpeg/13_2d_from_mtpy_example.ipynb
-    
+    - title: Seismic
+      children:
+      - title: Seicmic methods fundamentals
+      
 site:
   template: book-theme
   options:
