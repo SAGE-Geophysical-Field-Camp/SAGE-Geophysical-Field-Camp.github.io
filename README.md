@@ -42,6 +42,9 @@ The methods covered are:
   - ERT
 - Thermal
   - DTS
+- Seismic
+  - Passive seismic
+  - Active seismic
 
 Each method will start with `Key Concepts` that by the end of going through each module you should be able to understand.  Example Python example code for working with various data sets is provided. For extra information links to external resources as well.
 
