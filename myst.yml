@@ -52,7 +52,7 @@ project:
 # akram note 5/7/25 :create content in .ipynb style and format and link here. put the notebooks under the ./notebook/seis/xxx.ipynb
     #  - title: Seicmic methods fundamentals 
       children:
-      - file: ./notebooks/seimic/intro_to_seimic.ipynb
+      - file: ./notebooks/seismic/intro_to_seimic.ipynb
 #      - file: ./notebooks/seimic/physical_understanding.ipynb
 #      - file: ./notebooks/seimic/data_collection.ipynb    
 #      - file: ./notebooks/seimic/survey_design_example.ipynb
