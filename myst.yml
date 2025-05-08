@@ -17,7 +17,7 @@ project:
     - title: Electromagnetics
       children:
       - file: ./notebooks/em/intro_to_em.ipynb
-      - file: ./notebooks/em/physical_understanding.ipynb
+      - file: ./notebooks/em/physical_understanding.md
       - file: ./notebooks/em/data_collection.ipynb    
       - file: ./notebooks/em/survey_design_example.ipynb
       - file: ./notebooks/em/timeseries_data.ipynb
