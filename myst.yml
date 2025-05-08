@@ -4,8 +4,8 @@ project:
   id: ad226c36-a7ba-4640-bff7-04498de8fd2d
   title: Summer of Applied Geophysical Experience Field Camp
   description: Documentation and working examples for open-source Python packages to work with magnetoteluric data.
-  keywords: [magnetotellurics]
-  authors: MT Team
+  keywords: [geophysics, magnetotellurics, gravity, magnetics, ERT, seismic reflection, seismic refraction, geology, Valles Caldera, DTS, TEM]
+  authors: SAGE Faculty and Students
   license: CC BY 4.0
   thumbnail: ./images/SAGE_Logo.png
   github: https://github.com/SAGE-Geophysical-Field-Camp/sage-geophysics.github.io
