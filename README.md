@@ -32,6 +32,20 @@ The goal of this book is to provide material for students to help guide them thr
 
 The methods covered are:
 
+:::{table} Geophysical Methods
+:label: gp_methods
+:align: center
+
+| Potential Fields | Electromagnetics | Seismic | Electrical |
+| :--------------: | :--------------: | :-----: | :--------: |
+| Gravity | Magnetotellurics (MT) | Reflection  | Electrical Resistivity Tomography (ERT) |
+| Magnetics | Transient Electromagnetics (EM) | Refraction | |
+| Thermal | Ground Penetrating Radar (GPR) | Near-surface | |
+
+:::
+
+
+
 - Gravity
 - Magnetics
 - Electromagnetics
