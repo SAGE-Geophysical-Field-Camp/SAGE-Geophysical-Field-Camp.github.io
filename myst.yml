@@ -30,6 +30,7 @@ project:
       - file: ./notebooks/em/data_collection.ipynb    
       - file: ./notebooks/em/survey_design_example.ipynb
       - file: ./notebooks/em/timeseries_data.ipynb
+      - file: ./notebooks/em/tf_calculation.ipynb
       - title: Example Notebooks from Open Source Codes
         children:
           - title: Magnetotellurics
