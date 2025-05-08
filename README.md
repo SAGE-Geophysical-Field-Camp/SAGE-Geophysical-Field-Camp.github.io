@@ -39,11 +39,12 @@ The methods covered are:
 | Potential Fields | Electromagnetics | Seismic | Electrical |
 | :--------------: | :--------------: | :-----: | :--------: |
 | Gravity | Magnetotellurics (MT) | Reflection  | Electrical Resistivity Tomography (ERT) |
-| Magnetics | Transient Electromagnetics (EM) | Refraction | |
+| Magnetics | Transient Electromagnetics (EM) | Refraction | Direct Current (DC) |
 | Thermal | Ground Penetrating Radar (GPR) | Near-surface | |
 
 :::
 
+### General Format
 
 Each method will start with `Key Concepts` that by the end of going through each module you should be able to understand.  Example Python example code for working with various data sets is provided. For extra information links to external resources as well.
 
