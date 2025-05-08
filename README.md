@@ -36,11 +36,11 @@ The methods covered are:
 :label: gp_methods
 :align: center
 
-| Potential Fields | Electromagnetics | Seismic | Electrical |
+| Potential Fields | Electromagnetics | Seismology | Electrical |
 | :--------------: | :--------------: | :-----: | :--------: |
 | Gravity | Magnetotellurics (MT) | Reflection  | Electrical Resistivity Tomography (ERT) |
 | Magnetics | Transient Electromagnetics (EM) | Refraction | Direct Current (DC) |
-| Thermal | Ground Penetrating Radar (GPR) | Near-surface | |
+| Thermal | Ground Penetrating Radar (GPR) | Passive | |
 
 :::
 
