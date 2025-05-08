@@ -28,6 +28,13 @@ Electrical resistivity is a physical property of a material that describes how w
 
 Electrical resistivity of subsurface materials can vary by orders of magnitude.  A graphite body or salt water zone could be less than 1 $\Omega \cdot m$ where as a cratonic body may be greater than 10E4 $\Omega \cdot m$.  The main driver again is fluid content, or pore space content and connectivity of conductive phases.  
 
+```{figure} electrical_resistivity.png
+:label: electrical_resistivity
+:alt: Electrical Resistivity
+
+General electrical resistivity of geologic materials
+```
+
 
 ## More Information
 
