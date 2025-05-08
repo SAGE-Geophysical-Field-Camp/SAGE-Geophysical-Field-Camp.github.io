@@ -21,7 +21,7 @@ project:
         - file: ./notebooks/gravity/intro_to_gravity.md
       - title: Magnetics
         children:
-        - file: ./notebooks/gravity/intro_to_magnetics.md
+        - file: ./notebooks/magnetics/intro_to_magnetics.md
       - title: Temperature
     - title: Electromagnetics
       children:
