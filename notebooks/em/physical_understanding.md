@@ -32,7 +32,7 @@ Electrical resistivity of subsurface materials can vary by orders of magnitude. 
 :label: electrical_resistivity
 :alt: Electrical Resistivity
 
-General electrical resistivity of geologic materials
+General electrical resistivity of geologic materials. Notice the span of values over orders of magnitude.  Also, many materials have similar resistivity ranges enforcing the need for additional information to interpret resistivity models.
 ```
 
 
