@@ -1,8 +1,4 @@
-# Gravity
-
-In this module you will learn about gravity methods.  
-
-## Key Concepts
+# Key Concepts
 
 1. **Physical understanding**: 
 

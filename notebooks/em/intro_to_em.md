@@ -1,8 +1,4 @@
-# Electromagnetic Geophysical Methods
-
-In this module you will learn about electromagnetic geophysical methods including magnetotellurics (MT), transient electromagnetics (TEM), and ground-penetrating radar (GPR).  
-
-## Key Concepts
+# Key Concepts
 
 1. **Physical understanding**: Understand the physics behing electromagnetic geophysical methods.
     - **Right-Hand-Rule**: Understand how electromagnetic waves propogate through the Earth.
