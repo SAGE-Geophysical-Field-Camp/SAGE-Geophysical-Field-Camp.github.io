@@ -2,14 +2,6 @@
 
 ## Agenda
 
-### Welcome Meeting
-
-| Topic | Resources |
-| :---- | :-------- |
-
-| Rock properties ||
-
-
 
 ### Meeting 1					
 
