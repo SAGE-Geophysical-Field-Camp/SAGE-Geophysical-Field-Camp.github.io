@@ -172,3 +172,19 @@ Constable, S. (2026). *Electrical Methods*. Course notes for SIO 182: Environmen
 
 Constable, S. (2026). *Electromagnetic Methods*. Course notes for SIO 182: Environmental and Exploration Geophysics, University of California San Diego, Winter Quarter 2026\. Retrieved from [https://marineemlab.ucsd.edu/sio182/notes/Electromagnetic.pdf](https://marineemlab.ucsd.edu/sio182/notes/Electromagnetic.pdf) 
 
+## Maxwell’s Equations
+
+Link to the more formatted, LateX version here:  
+https://www.overleaf.com/read/jdmbjhvmfyhg\#bb799e
+
+One of the most important tools that geophysicists use for subsurface imaging of the Earth's interior are various electromagnetic survey approaches, from magnetotelluric methods to time domain and frequency domain based procedures. However, in order to both successfully execute these and interpret their results, it is imperative to understand the properties of the magnetic and electric fields of which they operate upon. Nearly all of these properties can be understood by Maxwell's equations, which are stated in the following sequential order: Gauss's law, Gauss's law of magnetism, Faraday's Law, and Ampere's Law. 
+
+![][image17]
+
+To understand these, we first notice that the first two measure divergence, a quality describing the sources and sinks of our vector fields, while the last two measure curl, a quality which describes the rotation of a vector field. Equations with curl in particular admit a dynamic quality, which can be seen with their respect to temporal derivatives. **D** and **B** are the electric and magnetic flux densities, which describe how much of their respective qualities are 'flowing through' material, and are measured in Coulombs per square meter and Teslas. **E** and **H** are the electric and magnetic field intensities, describing how hard the forces are driving, and are measured in volts per meter and amperes per meter.
+
+So, what types of materials in the subsurface would show good contrasts for these properties? The answer is that many of the materials we have studied so far in our meetings fit into this scheme of Maxwell’s equations in different ways. For example during discussions of resistivity, things anomalous in this respect like highly salinated water, or partially melted magma, would alter the electric field. Similarly, materials like ferromagnetic iron deposits would have an effect on the magnetic field. Maxwell's equations are not necessarily a unique property of these materials, but rather a concise and highly descriptive framework that we apply to better understand these other properties. 
+
+To look at an applied example, we can examine the third law of Maxwell's equations, Faraday's law. In an electromagnetic TDEM survey, we begin by generating a preliminary **B** field in the ground surface through the means of a repeated electric current. We then admit a change to **B**, in the simplest case just turning the current off, and through its change in time we derive the curl of **E**, precisely from Faraday's law. The measurement of this shift over time is due to the properties of materials in the ground, and by measuring the aftereffects, we can make inferences about what may lie below in the subsurface. This is one of many examples of which Maxwell's equations play a central role for understanding what we may encounter in the caldera. 
+
+**\-Leo**
