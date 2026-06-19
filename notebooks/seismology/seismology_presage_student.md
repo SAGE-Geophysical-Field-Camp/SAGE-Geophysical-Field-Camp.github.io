@@ -22,7 +22,7 @@ Moreover, as the tremor shakes in the caldera, it is beneficial to map out and t
 
 ```{figure} seismology_image_01.png
 
- A graph depicting the intensity of a volcanic eruption and eruption volume in a caldera based on the structural diameter of the caldera (Geshi et al. 2014\)
+ **Figure 1**: A graph depicting the intensity of a volcanic eruption and eruption volume in a caldera based on the structural diameter of the caldera (Geshi et al. 2014\)
 ```
 
 ### Seismicity in Valles Caldera  
@@ -31,7 +31,7 @@ Valles Caldera is a caldera situated in the Jemez Mountains. Valles Caldera is a
 
 ```{figure} seismology_image_02.png
 
-A diagram for 3 graphs (a,b,c, and e)  and 1 map (d) of 6 mini earthquakes in Valles Caldera (Rodriguez et al. 2025\)
+**Figure 2**: A diagram for 3 graphs (a,b,c, and e)  and 1 map (d) of 6 mini earthquakes in Valles Caldera (Rodriguez et al. 2025\)
 ```
 
 Figure 2 depicts during the past years, the earthquake intensity dv/v % change stayed relatively the same over the years in graph b and c. Graph e indicates that the mini earthquakes match correlation was under 1 which shows a very low intensity earthquake. This pattern concludes that Valles caldera is a dormant caldera when analyzing the seismicity.  
