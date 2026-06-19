@@ -16,55 +16,42 @@ project:
     - file: ./notebooks/basics/program_goals.md
     - file: ./notebooks/basics/pre_sage_schedule.md
     - file: ./notebooks/basics/how_to_use.ipynb
+    - title: Geology
+      children:
+      - file: ./notebooks/geology/intro_to_geology.md
+      - file: ./notebooks/geology/geology_presage_student.md
+    - title: Signal Processing
+      children:
+      - file: ./notebooks/signal_processing/intro_to_signal_processing.md
+      - file: ./notebooks/signal_processing/signal_processing_presage_student.md
     - title: Potential Fields
       children: 
       - title: Gravity
         children:
         - file: ./notebooks/gravity/intro_to_gravity.md
+        - file: ./notebooks/gravity/gravity_presage_student.md
       - title: Magnetics
         children:
         - file: ./notebooks/magnetics/intro_to_magnetics.md
+        - file: ./notebooks/magnetics/magnetics_presage_student.md
     - title: Electromagnetics
       children:
       - file: ./notebooks/em/intro_to_em.md
-      - file: ./notebooks/em/physical_understanding.md
-      - file: ./notebooks/em/data_collection.ipynb    
-      - file: ./notebooks/em/survey_design_example.ipynb
-      - file: ./notebooks/em/timeseries_data.ipynb
-      - file: ./notebooks/em/tf_calculation.ipynb
-      # - title: Example Notebooks from Open Source Codes
-      #   children:
-      #     - title: Magnetotellurics
-      #       children:
-      #         - file: ./notebooks/mtpy/01a_downloading_from_spud.ipynb
-      #         - file: ./notebooks/mtpy/01_mt_collection_yellowstone.ipynb
-      #         - file: ./notebooks/mtpy/02_mt_data_basics.ipynb
-      #         - file: ./notebooks/mtpy/03_plot_stations.ipynb
-      #         - file: ./notebooks/mtpy/04_plot_mt_response.ipynb
-      #         - file: ./notebooks/mtpy/05_plot_depth_of_investigation.ipynb
-      #         - file: ./notebooks/mtpy/06_plot_resistivity_phase_maps.ipynb
-      #         - file: ./notebooks/mtpy/07_resistivity_phase_pseudosection.ipynb
-      #         - file: ./notebooks/mtpy/08_plot_strike.ipynb
-      #         - file: ./notebooks/mtpy/09_phase_tensor_maps.ipynb
-      #         - file: ./notebooks/mtpy/10_phase_tensor_pseudosection.ipynb
-      #         - file: ./notebooks/mtpy/11_making_modem_inputs.ipynb
-      #         - file: ./notebooks/mtpy/12a_picking_bands.ipynb
-      #         - file: ./notebooks/mtpy/12_aurora_processing.ipynb
-      #     - title: simpeg
-      #       children:
-      #         - file: ./notebooks/simpeg/5_1d_fixed_layer_inversion_synthetic.ipynb
-      #         - file: ./notebooks/simpeg/6_1d_fixed_layer_inversion_field_data.ipynb
-      #         - file: ./notebooks/simpeg/7_2d_inversion_synthetic.ipynb
-      #         - file: ./notebooks/simpeg/7a_2d_inversion_yellowstone.ipynb
-      #         - file: ./notebooks/simpeg/8_3d_inversion_synthetic_meta.ipynb
-      #         - file: ./notebooks/simpeg/9_3d_inversion_yellowstone_impedance.ipynb
-      #         - file: ./notebooks/simpeg/12_simpeg_1d_from_mtpy_inversion.ipynb
-      #         - file: ./notebooks/simpeg/13_2d_from_mtpy_example.ipynb
-    - title: Seismology
-# akram note 5/7/25 :create content in .ipynb style and format and link here. put the notebooks under the ./notebook/seis/xxx.ipynb
-    #  - title: Seicmic methods fundamentals 
+      - file: ./notebooks/em/em_presage_student.md
+      # - file: ./notebooks/em/physical_understanding.md
+      # - file: ./notebooks/em/data_collection.ipynb    
+      # - file: ./notebooks/em/survey_design_example.ipynb
+      # - file: ./notebooks/em/timeseries_data.ipynb
+      # - file: ./notebooks/em/tf_calculation.ipynb
+    - title: Seismic Methods
       children:
       - file: ./notebooks/seismic/intro_to_seismic.md
+      - file: ./notebooks/seismic/seismic_presage_student.md
+    - title: Seismology 
+      children:
+      - file: ./notebooks/seismology/intro_to_seismology.ipynb
+      - file: ./notebooks/seismology/seismology_presage_student.md
+
 site:
   template: book-theme
   options:
