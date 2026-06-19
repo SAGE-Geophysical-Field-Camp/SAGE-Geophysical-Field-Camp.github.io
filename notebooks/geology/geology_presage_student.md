@@ -31,10 +31,9 @@ The Valles Caldera location provides the tectonic conditions necessary for magma
 
 \-**Sky**
 
-**Both (we agreed on the image)**   
+**Both (we agreed on the image)** 
+
 ```{figure} geology_image_01.png
-:label: geology_01
-:alt: Electrical Resistivity
 
 Schematic diagram of plate divergence and convergence, as well as mantle pluming. Note that the lithosphere includes the uppermost mantle. From *Principles of Igneous and Metamorphic Petrology* by Philpotts and Ague.
 ```   

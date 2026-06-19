@@ -19,15 +19,20 @@ When understanding how earthquakes form in a caldera, it is formed under a strik
 However, understanding the seismicity of a caldera is crucial for warning signs of an eruption. An intense earthquake eruption can result in the subsurface fracturing allowing magma to flow actively. As there is an intense earthquake occurring, a volcanic tremor can develop as it travels in surface waves. This is an indicator of a potential volcanic eruption in a caldera. 
 
 Moreover, as the tremor shakes in the caldera, it is beneficial to map out and track where the magma chambers are located to identify the warnings of an eruption. Furthermore, when measuring seismicity in a caldera, it is important to understand the rock type. Higher density rock area of a caldera that is more consolidated, more crystalline, and has a cooling temperature is influential for an increased seismic velocity. When the seismic waves travel to a low-dense rock that is less consolidated and less crystalline, the waves slow down. This is also crucial to tracking magma chambers based on the seismic waves’ velocity. Tracking the magma chambers will help determine the volume of the magma chamber, the diameter of the ring fault, and the depth of the magma chamber to figure out how intense the eruption will be. According Figure 1, having an increased magma chamber volume results in larger collapse of the caldera, resulting in a larger eruption. (Geshi et al. 2014\)  
-![][image2]
 
-*Figure 1: A graph depicting the intensity of a volcanic eruption and eruption volume in a caldera based on the structural diameter of the caldera (Geshi et al. 2014\)*
+```{figure} seismology_image_01.png
+
+ A graph depicting the intensity of a volcanic eruption and eruption volume in a caldera based on the structural diameter of the caldera (Geshi et al. 2014\)
+```
 
 ### Seismicity in Valles Caldera  
 
 Valles Caldera is a caldera situated in the Jemez Mountains. Valles Caldera is a dormant caldera therefore there is less seismic activity detected. The seismic surveys that surround the Valles Caldera detect microseismicity, meaning mini-Earthquake activity.  For example, there were 6 mini earthquakes detected using the seismic surveys in Figure 2\.   
-![][image3]  
-*Figure 2: A diagram for 3 graphs (a,b,c, and e)  and 1 map (d) of 6 mini earthquakes in Valles Caldera (Rodriguez et al. 2025\)*
+
+```{figure} seismology_image_02.png
+
+A diagram for 3 graphs (a,b,c, and e)  and 1 map (d) of 6 mini earthquakes in Valles Caldera (Rodriguez et al. 2025\)
+```
 
 Figure 2 depicts during the past years, the earthquake intensity dv/v % change stayed relatively the same over the years in graph b and c. Graph e indicates that the mini earthquakes match correlation was under 1 which shows a very low intensity earthquake. This pattern concludes that Valles caldera is a dormant caldera when analyzing the seismicity.  
 
