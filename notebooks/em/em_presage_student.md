@@ -8,7 +8,7 @@ In the Valles Caldera, resistivity contrasts can be used to identify geothermal 
 
 \-**Emmanuel**
 
- Resistivity and its inverse, conductivity, are properties of materials that geophysicists can use to investigate geologic bodies (see resistivity survey types for more). Conductivity involves the ease with which a current can be conducted through the material, and is often measured in S/m. Resistivity, which involves resistance across a cross-sectional area in a material per unit length (![][image4]), is measured in Ω·m. Therefore, what is often considered a conductor or insulator is reliant on the resistivity/conductivity of the surrounding materials. Generally, common conductors like silver, copper and seawater are orders of magnitude less resistive than common insulators such as rubber and air.
+ Resistivity and its inverse, conductivity, are properties of materials that geophysicists can use to investigate geologic bodies (see resistivity survey types for more). Conductivity involves the ease with which a current can be conducted through the material, and is often measured in S/m. Resistivity, which involves resistance across a cross-sectional area in a material per unit length $\rho = R A / L$, is measured in Ω·m. Therefore, what is often considered a conductor or insulator is reliant on the resistivity/conductivity of the surrounding materials. Generally, common conductors like silver, copper and seawater are orders of magnitude less resistive than common insulators such as rubber and air.
 
 When looking in regions such as a caldera, other important factors alter resistivity, such as fluids, temperature and depth. The presence of fluids in rock units may change resistivity as they saturate the rock's pores. This resistivity depends on the material's porosity, and the relative conductivity of the fluid. Fluids may further reduce resistivity if the material has an increase in salinity, which can lead to more mobile ions and thus, increase the conductance of charge within the unit material. This is important generally, but especially in the case of calderas, which can introduce more fractures and thereby increase the ease of fluid mobility in certain parts. Pores also tend to be compressed with depth, leaving less space and increasing resistivity. Higher temperatures, meanwhile, generally decrease resistivity as fluids within the rock become more ionically mobile. Certain rocks, depending on their composition, may be affected more by temperature than others. This understanding of temperature, especially in areas of partial melting, gives us insights into the volcanic system; however, the resistivity of partial melts may also be based on other factors (e.g. the melt’s compositional or crystalline conductivity).
 
@@ -96,9 +96,15 @@ In Valles Caldera, these methods can therefore help map contrasts between hydrot
 
 1. *Maxwell-Faraday Induction Law \- defines electric response of rock material to time varying field. This can either be the actively sourced primary field for EM surveys or the external ambient magnetic field for MT surveys. As long as you have a measurement of the input magnetic field, this relationship can be calculated.* 
 
+$$\nabla \times \mathbf{E} = \dfrac{-d\mathbf{B}}{dt} $$
+
 2. *Ohm’s Law \- characterizes the currents created by the induced electric field in the target rocks. Here sigma represents conductivity, the property of interest. Higher σ → stronger induced currents (J). Lower σ → weaker currents*
 
+$$\mathbf{J} = \sigma \mathbf{E}$$
+
 3. *Ampere-Maxwell Law \-* *defines secondary magnetic field produced by the target rocks as a result of induced electric currents*  
+
+$$\nabla \times \mathbf{B} = \mu \mathbf{J} + \mu \epsilon \dfrac{\partial \mathbf{E}}{\partial t}$$
 
 The secondary B field induced in step 3 is what is measured by the receiver. Using a simply subsurface model of conductivity, 
 
