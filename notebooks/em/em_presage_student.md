@@ -136,27 +136,29 @@ The resistivity method measures how strongly the subsurface resists electrical c
 Here are the fundamental Maxwell’s equations. Since they were already well explained by Leyla Namazie, I will not explain them in detail here.
 
 (i) Gauss’ Law  
-![][image5]  
-![][image6]  
+$$\nabla \cdot \mathbf{E} = \dfrac{\rho}{\epsilon_0}$$
 (ii) Faraday’s Law  
-![][image7]  
+$$\nabla \times \mathbf{E} = \dfrac{-d\mathbf{B}}{dt} $$ 
 (iii) Gauss’s Law for magnetism  
-![][image8]  
+$$\nabla \cdot \mathbf{B} = 0$$
 (iv) Ampere’s Law  
-![][image9]  
-![][image10]  
+$$\nabla \times \mathbf{B} = \mu \mathbf{J} + \mu \epsilon \dfrac{\partial \mathbf{E}}{\partial t}$$ 
 From Maxwell’s equations, electromagnetic diffusion equations can be derived.
 
-![][image11]
+$$\nabla^2 \mathbf{E} - \mu_0 \sigma \dfrac{\partial \mathbf{E}}{\partial t} = 0$$
+
+$$\nabla^2 \mathbf{B} - \mu_0 \sigma \dfrac{\partial \mathbf{B}}{\partial t} = 0$$
 
 1. Skin depth (EM)
 
-Assuming a single-frequency harmonic field, where \\omega \= 2\\pi f, the skin depth can be derived as:
+Assuming a single-frequency harmonic field, where \\omega \= 2\\pi f, the skin depth (in meters) can be derived as:
 
-![][image12]  
-Where  is resistivity and T is angular frequency period in second.  
+$$\delta_{skin} \approx 500 \sqrt{\rho_{a} T} $$  
+
+Where  is resistivity and T is angular frequency period in second. 
+
 This skin depth is important for estimating how deeply electromagnetic signals can penetrate into the subsurface. As the figure shows, at one skin depth, the field amplitude decreases to 1/e, or about 37%, of its surface value.  
-.  
+ 
 Therefore, by calculating skin depth, we can choose lower frequencies for deeper investigation and higher frequencies for shallower investigation.
 
 ![][image13]
