@@ -45,8 +45,10 @@ project:
       # - file: ./notebooks/em/tf_calculation.ipynb
       - file: ./notebooks/mt/mt_plotting.ipynb
       - file: ./notebooks/mt/12_simpeg_1d_from_mtpy_inversion.ipynb
+      - file: ./notebooks/mt/6_1d_fixed_layer_inversion_field_data.ipynb
       - file: ./notebooks/mt/tf_analysis.ipynb
       - file: ./notebooks/mt/inversion_3d_synthetic_conductive_square.ipynb
+      - file: 
     - title: Seismic Methods
       children:
       - file: ./notebooks/seismic/intro_to_seismic.md
