@@ -43,6 +43,8 @@ project:
       # - file: ./notebooks/em/survey_design_example.ipynb
       # - file: ./notebooks/em/timeseries_data.ipynb
       # - file: ./notebooks/em/tf_calculation.ipynb
+      - file: ./notebooks/mt/mt_plotting.ipynb
+      - file: ./notebooks/12_simpeg_1d_from_mtpy_inversion.ipynb
     - title: Seismic Methods
       children:
       - file: ./notebooks/seismic/intro_to_seismic.md
