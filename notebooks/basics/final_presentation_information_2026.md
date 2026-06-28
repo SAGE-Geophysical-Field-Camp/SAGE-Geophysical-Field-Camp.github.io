@@ -1,24 +1,23 @@
 # Final Presentation Information
 
-There are two main geologic targets: 1\) regional geophysics: the Valles Caldera structure and magmatic system, 2\) near surface: The fens hydrologic features.  Each target will include 2 or more geophysical methods to form a **team**.  Each geophysical method will have a **group** of 3-5 people.  For the final presentation each **team** will provide an introduction of the geologic target and what scientific problems are trying to be solved with geophysics, and a summary of findings. The topics covered in the introduction and summary should be evenly split between **team** members.  In between the introduction and the summary each **group** will provide an introduction to the geophysical method including the underlying physics of the geophysical method, the physical property measured, and any other specifics for the method, and a summary of findings from the **group**.  Again split this evenly between **group** members.  Between the group introduction and summary each person will present on their specific topic of the method.
+There are two main geologic targets: 1\) regional geophysics: the Valles Caldera structure and magmatic and hydrothermal systems, 2\) near surface: The fens hydrologic features and controlling structures.  Each geologic target will include 2 or more geophysical methods to form a **team** of 5-8 people.  Each geophysical method will have a **group** of 3-5 people.  For the final presentation each **team** will provide an introduction of the geologic target and what scientific problems are trying to be solved with geophysics, and a summary of findings. The topics covered in the introduction and summary should be evenly split between **team** members.  In between the introduction and the summary each **group** will provide an introduction to the geophysical method including the underlying physics of the geophysical method, the physical property measured, and any other specifics for the method, and a summary of findings from the **group**.  Again split this evenly between **group** members.  Between the group introduction and summary each person will present on their specific topic of the method.
 
-## ***Overarching Program Goal: Use geophysics to address a scientific research question or applied geoscience problem of value to society, while operating as effective, professional members of a scientific team.***
+**Overarching Program Goal: Use geophysics to address a scientific research question or applied geoscience problem of value to society, while operating as effective, professional members of a scientific team.**
 
-***SAGE 2026 Research Questions:***
+## SAGE 2026 Research Questions:
 
-Volcanic/tectonic interaction between the Valles Caldera and the Rio Grande Rift  
-What is the style and geometry of faulting within the Caldera?
+- Volcanic/tectonic interaction between the Valles Caldera and the Rio Grande Rift  
+  - *What is the style and geometry of faulting within the Caldera?*
 
-Magmatic and hydrothermal system beneath the Valles Caldera  
-Where is, and what is the shape of, the magma reservoir, magma conduits, and hydrothermal conduits beneath the caldera?
+- Magmatic and hydrothermal system beneath the Valles Caldera  
+  - *Where is, and what is the shape of, the magma reservoir, magma conduits, and hydrothermal conduits beneath the caldera?*
 
-Near-surface geomorphic and hydrologic processes within the Valles  
-Why do the fens exist and what is the structure of the rock/sediment interface underneath them?
+- Near-surface geomorphic and hydrologic processes within the Valles  
+  - *Why do the fens exist and what is the structure of the rock/sediment interface underneath them?*
 
-Structure and evolution of intra-caldera basins  
-Where is, and what is the geometry of, the boundary between the Valles and Toledo calderas?
+- Structure and evolution of intra-caldera basins  
+  - *Where is, and what is the geometry of, the boundary between the Valles and Toledo calderas?*
 
-## 
 
 ## General Presentation Structure
 
@@ -29,7 +28,8 @@ Where is, and what is the geometry of, the boundary between the Valles and Toled
    3. Repeat for other groups in the team  
 2. Team provides a summary (5 min)
 
-**Team Presentation**  
+### Team Presentation
+
 **Purpose**: You will collaboratively work as a team to develop a **joint interpretation of the study area using geophysics**.  As a team you will provide background information on the study area, geophysical methods, physical properties measured, survey design, and research questions to be answered.  You will provide a summary of the team’s findings, how the findings impact stakeholders, and future recommendations. Each team will have team leads that are responsible for organizing the presentation and delegating specific topics to individuals. That said, everyone in the team has responsibility for the final product. The introduction and summary parts of the presentation should be evenly split between group members such that each person has a role.  
 
 **Knowledge and Skills**: You will practice working as a team, synthesizing various pieces of information into a comprehensive interpretation linking geophysical anomalies with geology through rock properties, and presenting in a research setting.
@@ -49,7 +49,8 @@ Where is, and what is the geometry of, the boundary between the Valles and Toled
 
 See the Team/Group Rubric
 
-**Group Presentation**  
+### Group Presentation
+
 **Purpose**: You will collaboratively work as a group to develop an **interpretation of the study area using a single geophysical method**.  As a group you will provide background information on the study area, geophysical methods, physical properties measured, survey design, and research questions to be answered.  You will provide a summary of the group’s findings, how the findings impact stakeholders, and future recommendations. The group will have a group leader that is responsible for organizing the presentation and delegating specific topics to individuals. The introduction and summary should be evenly split between group members such that each person has a role.  
 
 **Knowledge and Skills**: You will practice working in groups, synthesizing various pieces of information into a comprehensive interpretation linking the results from your specific geophysical method with geology through rock properties, and presenting in a research setting.
@@ -69,7 +70,8 @@ See the Team/Group Rubric
 
 See the Team/Group Rubric
 
-**Individual Presentation**  
+### Individual Presentation
+
 **Purpose**: You will individually choose a **topic to focus on from your chosen geophysical method**.  You will describe the topic in detail, the workflow, and the results. 
 
 **Knowledge and Skills**: You will practice focused research on a specific topic.  Practice individual presentation skills.    
@@ -91,8 +93,8 @@ See the Team/Group Rubric
 
 See the Individual Rubric
 
-Final Presentation – Team/Group Rubric  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+## Final Presentation – Team/Group Rubric  
+         
 
 | Dimension | Needs Improvement  | Satisfactory | Exceptional |
 | ----- | ----- | ----- | ----- |
@@ -106,7 +108,7 @@ Final Presentation – Team/Group Rubric
 | 8\. Professionalism- Overall Slide quality | Slide composition and/or figures, photos and text sometimes hinders understandability Figures, photos and text are not legible or the slide composition is unbalanced (e.g. too much text or too many images on one slide) | Slide composition is understandable and figures, photos and text help the audience understand the presentation | Figures, photos and text are clear, explained, and easy to view Quality approaches professional standards, such as in a publication or conference presentation |
 | 9\. Collaboration | Uneven contributions from team members | Contributions from team members are fairly even All team members show ownership of the material | It is evident that everyone on the team had a role in the project Contributions from team members is even and shows clear “ownership” of the material by all |
 
-Final Presentation – Individual Rubric
+## Final Presentation – Individual Rubric
 
 | Dimension | Needs Improvement  | Satisfactory | Exceptional |
 | ----- | ----- | ----- | ----- |
